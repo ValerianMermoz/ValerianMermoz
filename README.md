@@ -1,6 +1,6 @@
 <h1 style="underline">Je m'appelle Valérian MERMOZ</h1>
 
-<p>J'ai commencé à coder depuis Janvier 2023. Je suis à la recherche d'une première expérience profesionnelle dans le développement Web.</p> 
+<p>J'ai commencé à coder depuis janvier 2023. Je suis à la recherche d'une première expérience professionnelle dans le développement Web.</p> 
 <p>En attendant, j'apprends en réalisant de nouveaux projets !</p>
 
 <h2 style="underline">Vous souhaitez me contacter 💬</h2>
